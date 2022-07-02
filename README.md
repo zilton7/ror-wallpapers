@@ -1,4 +1,4 @@
 # ror-wallpapers
 A collection of ruby on rails wallpapers
 
-![image](https://user-images.githubusercontent.com/38778743/176997925-7cdb5098-2753-492e-a9ab-467f8974a225.png)
+![Screenshot from 2022-07-02 14-00-56](https://user-images.githubusercontent.com/38778743/176997964-9ec93ead-53e0-470b-8891-f5edb8b577ec.png)
